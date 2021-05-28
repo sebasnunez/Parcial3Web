@@ -1,0 +1,136 @@
+
+body{
+  font-family: 'Poppins';
+  color: #afaeb4;
+}
+.button{
+  background-color: #2fced4;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  border-radius: 30px;
+  width: 20%;
+  border: none;
+}
+.button2{
+  background-color: #2fced4;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  width: 88%;
+  height: 50px;
+  border: none;
+  margin-left: 18px;
+  margin-top: 1%;
+}
+.button:hover{
+  background-color: #98e4e2;
+  color: white;
+  font-weight: 400;
+}
+a{
+  text-decoration: none;
+  color: #afaeb4;
+}
+a:hover{
+  color:black;
+  font-weight: 700;
+}
+@media (min-width: 1024px){
+  .container{
+    font-family: Poppins, serif;
+    width: auto;
+    height: 100%;
+  }
+  .container1{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 3%;
+  }
+  .container2{
+    background-color: #f0f1f6;
+    padding-top: 6%;
+    padding-left: 8%;
+    padding-right: 8%;
+  }
+  .header{
+    display: grid;
+    grid-template-columns: 10% 20% 70%;
+    margin-bottom: 5%;
+  }
+  .headerLinks{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+  }
+  .headerButtons{
+    justify-self: end;
+    display: inline-block;
+  }
+  .content1{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-bottom: 5%;
+  }
+  .content1 h1{
+    color: black;
+  }
+  .content2{
+    display: grid;
+    grid-template-columns: 80% 20%;
+    background-color: #4b406b;
+    height: 120px;
+    border-radius: 10px;
+    align-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .content2 input{
+    margin: 0;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 30px;
+  }
+  .content3{
+    display: grid;
+    justify-items: center;
+    grid-template-rows: 20% 80%;
+    padding: 10px 320px 10px 320px;
+    text-align: center;
+  }
+  .content3 h1{
+    color: black;
+    align-self: flex-end;
+    margin-bottom: 0;
+  }
+  .content3 p{
+    margin-top: 0;
+  }
+
+  .content4{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+  }
+  .content4 div{
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+  }
+  .content4 div div{
+    margin-top: 0;
+    display: flex;
+    border-radius: 50px;
+    background-color: #4b406b;
+    width: 10px;
+    height: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+  .content4 div div img{
+    width: 27px;
+  }
+}
