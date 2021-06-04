@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Parcial3Web/static/css/main.94a05593.chunk.css",
-    "main.js": "/Parcial3Web/static/js/main.b8e19aef.chunk.js",
-    "main.js.map": "/Parcial3Web/static/js/main.b8e19aef.chunk.js.map",
+    "main.css": "/Parcial3Web/static/css/main.98183112.chunk.css",
+    "main.js": "/Parcial3Web/static/js/main.374efd32.chunk.js",
+    "main.js.map": "/Parcial3Web/static/js/main.374efd32.chunk.js.map",
     "runtime-main.js": "/Parcial3Web/static/js/runtime-main.e16aac5e.js",
     "runtime-main.js.map": "/Parcial3Web/static/js/runtime-main.e16aac5e.js.map",
     "static/js/2.9b9bffc6.chunk.js": "/Parcial3Web/static/js/2.9b9bffc6.chunk.js",
     "static/js/2.9b9bffc6.chunk.js.map": "/Parcial3Web/static/js/2.9b9bffc6.chunk.js.map",
     "index.html": "/Parcial3Web/index.html",
-    "static/css/main.94a05593.chunk.css.map": "/Parcial3Web/static/css/main.94a05593.chunk.css.map",
+    "static/css/main.98183112.chunk.css.map": "/Parcial3Web/static/css/main.98183112.chunk.css.map",
     "static/js/2.9b9bffc6.chunk.js.LICENSE.txt": "/Parcial3Web/static/js/2.9b9bffc6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Parcial3Web/static/media/Poppins-Black.1a400c8e.ttf",
     "static/media/icon-brand-recognition.c349d3b6.svg": "/Parcial3Web/static/media/icon-brand-recognition.c349d3b6.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.e16aac5e.js",
     "static/js/2.9b9bffc6.chunk.js",
-    "static/css/main.94a05593.chunk.css",
-    "static/js/main.b8e19aef.chunk.js"
+    "static/css/main.98183112.chunk.css",
+    "static/js/main.374efd32.chunk.js"
   ]
 }
