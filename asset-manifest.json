@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Parcial3Web/static/css/main.94a05593.chunk.css",
+    "main.js": "/Parcial3Web/static/js/main.b8e19aef.chunk.js",
+    "main.js.map": "/Parcial3Web/static/js/main.b8e19aef.chunk.js.map",
+    "runtime-main.js": "/Parcial3Web/static/js/runtime-main.e16aac5e.js",
+    "runtime-main.js.map": "/Parcial3Web/static/js/runtime-main.e16aac5e.js.map",
+    "static/js/2.9b9bffc6.chunk.js": "/Parcial3Web/static/js/2.9b9bffc6.chunk.js",
+    "static/js/2.9b9bffc6.chunk.js.map": "/Parcial3Web/static/js/2.9b9bffc6.chunk.js.map",
+    "index.html": "/Parcial3Web/index.html",
+    "static/css/main.94a05593.chunk.css.map": "/Parcial3Web/static/css/main.94a05593.chunk.css.map",
+    "static/js/2.9b9bffc6.chunk.js.LICENSE.txt": "/Parcial3Web/static/js/2.9b9bffc6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Parcial3Web/static/media/Poppins-Black.1a400c8e.ttf",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "/Parcial3Web/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "/Parcial3Web/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-facebook.229c75a0.svg": "/Parcial3Web/static/media/icon-facebook.229c75a0.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "/Parcial3Web/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/icon-instagram.df587328.svg": "/Parcial3Web/static/media/icon-instagram.df587328.svg",
+    "static/media/icon-pinterest.a2d25ab4.svg": "/Parcial3Web/static/media/icon-pinterest.a2d25ab4.svg",
+    "static/media/icon-twitter.1d5c6d5e.svg": "/Parcial3Web/static/media/icon-twitter.1d5c6d5e.svg",
+    "static/media/illustration-working.c9b5ef54.svg": "/Parcial3Web/static/media/illustration-working.c9b5ef54.svg",
+    "static/media/logo.83464303.svg": "/Parcial3Web/static/media/logo.83464303.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e16aac5e.js",
+    "static/js/2.9b9bffc6.chunk.js",
+    "static/css/main.94a05593.chunk.css",
+    "static/js/main.b8e19aef.chunk.js"
+  ]
+}
